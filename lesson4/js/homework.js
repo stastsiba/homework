@@ -109,7 +109,6 @@ function sortTheArray(){
             someArray[i] = someArray[j];
             someArray[j] = temp;
             }
-            console.log(someArray);
         }
     }
 }
