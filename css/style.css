@@ -7,7 +7,6 @@
     border-radius: none;
     margin-top: -4px;
     height: 120px;
-
 }
 .span-color {
     font-family: 'Poppins', sans-serif;
@@ -39,4 +38,16 @@
 }
 .form-control {
     background-color: #fcc302;
+}
+.block {
+    background-color: #fcc302;
+    height: 780px;
+}
+.first-dog {
+    background-color: #fcc302;
+    width: 419px;
+    height: 604px;
+    margin-top: 88px;
+    margin-right: 141px;
+    transform:rotateY(180deg);
 }
